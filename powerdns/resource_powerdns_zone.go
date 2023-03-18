@@ -2,7 +2,7 @@ package powerdns
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net"
 	"strconv"
 	"strings"
